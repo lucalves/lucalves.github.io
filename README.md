@@ -1,2 +1,3 @@
-# lucalves.github.io
-Hospedagem do portfólio de desenvolvimento web e mobile.
+# Portfólio
+
+Repositório reservado para hospedagem do meu portfólio.
