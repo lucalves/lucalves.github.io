@@ -1,5 +1,7 @@
 # Portfólio
 
+* Repositório para hospedar o meu portfólio pessoal.
+
 ## Scripts
 
 ### `npm run dev`
