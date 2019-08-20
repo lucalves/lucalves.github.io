@@ -1,6 +1,8 @@
-# Portfólio
+# Portfolio
 
-* Repositório para hospedar o meu portfólio pessoal.
+Click [here](http://www.lucalves.com.br) to see.
+
+* Repository to host my personal portfolio.
 
 ## Scripts
 
