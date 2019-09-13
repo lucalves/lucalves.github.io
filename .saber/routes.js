@@ -4,11 +4,23 @@
               path: "/posts/my-first-post",
               meta: {
                 __relative: '_posts/my-first-post.md',
-                __pageId: '31819616'
+                __pageId: 'f1174ebe'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-my-first-post-md" */ "C:/Users/Lucas/Desktop/my-portfolio/pages/_posts/my-first-post.md?saberPage=31819616")
+                return import(/* webpackChunkName: "page--_posts-my-first-post-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/my-first-post.md?saberPage=f1174ebe")
+                
+              }
+            },
+{
+              path: "/posts/o-poder-do-aprendizado",
+              meta: {
+                __relative: '_posts/o-poder-do-aprendizado.md',
+                __pageId: 'efe7821e'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-o-poder-do-aprendizado-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/o-poder-do-aprendizado.md?saberPage=efe7821e")
                 
               }
             },
@@ -16,11 +28,11 @@
               path: "/about",
               meta: {
                 __relative: 'about.md',
-                __pageId: '00ac3892'
+                __pageId: 'cafc9b34'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--about-md" */ "C:/Users/Lucas/Desktop/my-portfolio/pages/about.md?saberPage=00ac3892")
+                return import(/* webpackChunkName: "page--about-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/about.md?saberPage=cafc9b34")
                 
               }
             },
@@ -28,11 +40,11 @@
               path: "/",
               meta: {
                 __relative: 'index.md',
-                __pageId: 'b2491da6'
+                __pageId: '40b0eb01'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--index-md" */ "C:/Users/Lucas/Desktop/my-portfolio/pages/index.md?saberPage=b2491da6")
+                return import(/* webpackChunkName: "page--index-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/index.md?saberPage=40b0eb01")
                 
               }
             },
@@ -40,11 +52,11 @@
               path: "/posts",
               meta: {
                 __relative: 'posts.md',
-                __pageId: '65589ae8'
+                __pageId: '67292c60'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--posts-md" */ "C:/Users/Lucas/Desktop/my-portfolio/pages/posts.md?saberPage=65589ae8")
+                return import(/* webpackChunkName: "page--posts-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/posts.md?saberPage=67292c60")
                 
               }
             },
@@ -72,13 +84,37 @@
                 
               }
             },
+{
+              path: "/tags/learn",
+              meta: {
+                __relative: 'undefined',
+                __pageId: 'internal_blog__tag__learn'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--internal_blog__tag__learn" */ "#cache/pages/internal_blog__tag__learn.saberpage?saberPage=internal_blog__tag__learn")
+                
+              }
+            },
+{
+              path: "/tags/aprendizado",
+              meta: {
+                __relative: 'undefined',
+                __pageId: 'internal_blog__tag__aprendizado'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--internal_blog__tag__aprendizado" */ "#cache/pages/internal_blog__tag__aprendizado.saberpage?saberPage=internal_blog__tag__aprendizado")
+                
+              }
+            },
       
       // An addtional route to catch all other requests, i.e. 404 page
       {
         path: '*',
         name: 404,
         component: function () {
-          return import(/* webpackChunkName: "404-page" */ "C:/Users/Lucas/Desktop/my-portfolio/node_modules/saber/vue-renderer/app/404.vue")
+          return import(/* webpackChunkName: "404-page" */ "C:/Users/TI/Desktop/lucalves.github.io/node_modules/saber/vue-renderer/app/404.vue")
         }
       }
     ]
