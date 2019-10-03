@@ -1,12 +1,12 @@
 var layouts = {}
 
     
-      import layout_0 from "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber-theme-portfolio/dist/layouts/home.vue"
-      layouts["home"] = layout_0
+      import layout_0 from "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber-theme-portfolio/dist/layouts/page.vue"
+      layouts["page"] = layout_0
       
 
-      import layout_1 from "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber-theme-portfolio/dist/layouts/page.vue"
-      layouts["page"] = layout_1
+      import layout_1 from "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber-theme-portfolio/dist/layouts/home.vue"
+      layouts["home"] = layout_1
       
 
       import layout_2 from "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber-theme-portfolio/dist/layouts/post.vue"
