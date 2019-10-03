@@ -4,11 +4,11 @@
               path: "/posts/my-first-post",
               meta: {
                 __relative: '_posts/my-first-post.md',
-                __pageId: 'f1174ebe'
+                __pageId: 'dc95ba60'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-my-first-post-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/my-first-post.md?saberPage=f1174ebe")
+                return import(/* webpackChunkName: "page--_posts-my-first-post-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/_posts/my-first-post.md?saberPage=dc95ba60")
                 
               }
             },
@@ -16,11 +16,11 @@
               path: "/posts/o-poder-do-aprendizado",
               meta: {
                 __relative: '_posts/o-poder-do-aprendizado.md',
-                __pageId: 'efe7821e'
+                __pageId: '5aeb0cbc'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-o-poder-do-aprendizado-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/o-poder-do-aprendizado.md?saberPage=efe7821e")
+                return import(/* webpackChunkName: "page--_posts-o-poder-do-aprendizado-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/_posts/o-poder-do-aprendizado.md?saberPage=5aeb0cbc")
                 
               }
             },
@@ -28,11 +28,11 @@
               path: "/about",
               meta: {
                 __relative: 'about.md',
-                __pageId: 'cafc9b34'
+                __pageId: '1081b017'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--about-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/about.md?saberPage=cafc9b34")
+                return import(/* webpackChunkName: "page--about-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/about.md?saberPage=1081b017")
                 
               }
             },
@@ -40,11 +40,11 @@
               path: "/",
               meta: {
                 __relative: 'index.md',
-                __pageId: '40b0eb01'
+                __pageId: '929e2e9c'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--index-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/index.md?saberPage=40b0eb01")
+                return import(/* webpackChunkName: "page--index-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/index.md?saberPage=929e2e9c")
                 
               }
             },
@@ -52,11 +52,11 @@
               path: "/posts",
               meta: {
                 __relative: 'posts.md',
-                __pageId: '67292c60'
+                __pageId: '45adabde'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--posts-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/posts.md?saberPage=67292c60")
+                return import(/* webpackChunkName: "page--posts-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/posts.md?saberPage=45adabde")
                 
               }
             },
@@ -114,7 +114,7 @@
         path: '*',
         name: 404,
         component: function () {
-          return import(/* webpackChunkName: "404-page" */ "C:/Users/TI/Desktop/lucalves.github.io/node_modules/saber/vue-renderer/app/404.vue")
+          return import(/* webpackChunkName: "404-page" */ "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber/vue-renderer/app/404.vue")
         }
       }
     ]
