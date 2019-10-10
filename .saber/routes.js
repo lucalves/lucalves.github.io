@@ -1,14 +1,26 @@
 
     export default [
       {
-              path: "/posts/my-first-post",
+              path: "/posts/como-adicionar-funcionamento-ao-botao-voltar-no-flutter",
               meta: {
-                __relative: '_posts/my-first-post.md',
-                __pageId: 'dc95ba60'
+                __relative: '_posts/como-adicionar-funcionamento-ao-botao-voltar-no-flutter.md',
+                __pageId: 'b842c1fc'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-my-first-post-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/_posts/my-first-post.md?saberPage=dc95ba60")
+                return import(/* webpackChunkName: "page--_posts-como-adicionar-funcionamento-ao-botao-voltar-no-flutter-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/como-adicionar-funcionamento-ao-botao-voltar-no-flutter.md?saberPage=b842c1fc")
+                
+              }
+            },
+{
+              path: "/posts/my-first-post",
+              meta: {
+                __relative: '_posts/my-first-post.md',
+                __pageId: 'f1174ebe'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-my-first-post-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/my-first-post.md?saberPage=f1174ebe")
                 
               }
             },
@@ -16,11 +28,11 @@
               path: "/posts/o-poder-do-aprendizado",
               meta: {
                 __relative: '_posts/o-poder-do-aprendizado.md',
-                __pageId: '5aeb0cbc'
+                __pageId: 'efe7821e'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--_posts-o-poder-do-aprendizado-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/_posts/o-poder-do-aprendizado.md?saberPage=5aeb0cbc")
+                return import(/* webpackChunkName: "page--_posts-o-poder-do-aprendizado-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/o-poder-do-aprendizado.md?saberPage=efe7821e")
                 
               }
             },
@@ -28,11 +40,11 @@
               path: "/about",
               meta: {
                 __relative: 'about.md',
-                __pageId: '1081b017'
+                __pageId: 'cafc9b34'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--about-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/about.md?saberPage=1081b017")
+                return import(/* webpackChunkName: "page--about-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/about.md?saberPage=cafc9b34")
                 
               }
             },
@@ -40,11 +52,11 @@
               path: "/",
               meta: {
                 __relative: 'index.md',
-                __pageId: '929e2e9c'
+                __pageId: '40b0eb01'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--index-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/index.md?saberPage=929e2e9c")
+                return import(/* webpackChunkName: "page--index-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/index.md?saberPage=40b0eb01")
                 
               }
             },
@@ -52,11 +64,35 @@
               path: "/posts",
               meta: {
                 __relative: 'posts.md',
-                __pageId: '45adabde'
+                __pageId: '67292c60'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--posts-md" */ "C:/Users/Lucas/Desktop/lucalves.github.io/pages/posts.md?saberPage=45adabde")
+                return import(/* webpackChunkName: "page--posts-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/posts.md?saberPage=67292c60")
+                
+              }
+            },
+{
+              path: "/tags/flutter",
+              meta: {
+                __relative: 'undefined',
+                __pageId: 'internal_blog__tag__flutter'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--internal_blog__tag__flutter" */ "#cache/pages/internal_blog__tag__flutter.saberpage?saberPage=internal_blog__tag__flutter")
+                
+              }
+            },
+{
+              path: "/tags/development",
+              meta: {
+                __relative: 'undefined',
+                __pageId: 'internal_blog__tag__development'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--internal_blog__tag__development" */ "#cache/pages/internal_blog__tag__development.saberpage?saberPage=internal_blog__tag__development")
                 
               }
             },
@@ -114,7 +150,7 @@
         path: '*',
         name: 404,
         component: function () {
-          return import(/* webpackChunkName: "404-page" */ "C:/Users/Lucas/Desktop/lucalves.github.io/node_modules/saber/vue-renderer/app/404.vue")
+          return import(/* webpackChunkName: "404-page" */ "C:/Users/TI/Desktop/lucalves.github.io/node_modules/saber/vue-renderer/app/404.vue")
         }
       }
     ]
