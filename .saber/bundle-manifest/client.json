@@ -25,38 +25,40 @@
     "fonts/source-sans-pro-latin-900.57036c00.woff2",
     "fonts/source-sans-pro-latin-900italic.28a4bcda.woff",
     "fonts/source-sans-pro-latin-900italic.e89d57e5.woff2",
-    "js/404-page.4a761e56.js",
-    "js/client.734fb21a.js",
-    "js/page--_posts-como-adicionar-funcionamento-ao-botao-voltar-no-flutter-md.5b346efc.js",
-    "js/page--_posts-my-first-post-md.cf06670b.js",
-    "js/page--_posts-o-poder-do-aprendizado-md.0c518624.js",
-    "js/page--about-md.0ce3499e.js",
-    "js/page--index-md.550e310d.js",
-    "js/page--internal_blog__tag__aprendizado.09b620fa.js",
-    "js/page--internal_blog__tag__development.bd9ca70c.js",
-    "js/page--internal_blog__tag__flutter.5888ab60.js",
-    "js/page--internal_blog__tag__learn.6d45c6ed.js",
-    "js/page--internal_blog__tag__presentation.5e0299c9.js",
-    "js/page--internal_blog__tag__welcome.b14918e4.js",
-    "js/page--posts-md.ab1472ec.js"
+    "js/404-page.615357de.js",
+    "js/client.aff917cb.js",
+    "js/page--_posts-como-adicionar-funcionamento-ao-botao-voltar-no-flutter-md.00ba3d61.js",
+    "js/page--_posts-criando-uma-splashscreen-utilizando-flutter-md.166a3eba.js",
+    "js/page--_posts-my-first-post-md.46f640b1.js",
+    "js/page--_posts-o-poder-do-aprendizado-md.c640f81b.js",
+    "js/page--about-md.8655b8d7.js",
+    "js/page--index-md.a6f914ac.js",
+    "js/page--internal_blog__tag__aprendizado.c94a9b11.js",
+    "js/page--internal_blog__tag__development.5b564f47.js",
+    "js/page--internal_blog__tag__flutter.d3c0bc1c.js",
+    "js/page--internal_blog__tag__learn.f793f00c.js",
+    "js/page--internal_blog__tag__presentation.423c2eb4.js",
+    "js/page--internal_blog__tag__welcome.ce9d374a.js",
+    "js/page--posts-md.0b88f843.js"
   ],
   "initial": [
-    "js/client.734fb21a.js"
+    "js/client.aff917cb.js"
   ],
   "async": [
-    "js/404-page.4a761e56.js",
-    "js/page--_posts-como-adicionar-funcionamento-ao-botao-voltar-no-flutter-md.5b346efc.js",
-    "js/page--_posts-my-first-post-md.cf06670b.js",
-    "js/page--_posts-o-poder-do-aprendizado-md.0c518624.js",
-    "js/page--about-md.0ce3499e.js",
-    "js/page--index-md.550e310d.js",
-    "js/page--internal_blog__tag__aprendizado.09b620fa.js",
-    "js/page--internal_blog__tag__development.bd9ca70c.js",
-    "js/page--internal_blog__tag__flutter.5888ab60.js",
-    "js/page--internal_blog__tag__learn.6d45c6ed.js",
-    "js/page--internal_blog__tag__presentation.5e0299c9.js",
-    "js/page--internal_blog__tag__welcome.b14918e4.js",
-    "js/page--posts-md.ab1472ec.js"
+    "js/404-page.615357de.js",
+    "js/page--_posts-como-adicionar-funcionamento-ao-botao-voltar-no-flutter-md.00ba3d61.js",
+    "js/page--_posts-criando-uma-splashscreen-utilizando-flutter-md.166a3eba.js",
+    "js/page--_posts-my-first-post-md.46f640b1.js",
+    "js/page--_posts-o-poder-do-aprendizado-md.c640f81b.js",
+    "js/page--about-md.8655b8d7.js",
+    "js/page--index-md.a6f914ac.js",
+    "js/page--internal_blog__tag__aprendizado.c94a9b11.js",
+    "js/page--internal_blog__tag__development.5b564f47.js",
+    "js/page--internal_blog__tag__flutter.d3c0bc1c.js",
+    "js/page--internal_blog__tag__learn.f793f00c.js",
+    "js/page--internal_blog__tag__presentation.423c2eb4.js",
+    "js/page--internal_blog__tag__welcome.ce9d374a.js",
+    "js/page--posts-md.0b88f843.js"
   ],
   "modules": {
     "90235458": [
@@ -2384,38 +2386,41 @@
     "2c3baf44": [
       26
     ],
-    "e2d7d776": [
+    "39a417e0": [
       27
     ],
-    "1e26ba32": [
+    "e2d7d776": [
       28
     ],
-    "581b43b6": [
+    "1e26ba32": [
       29
     ],
-    "91119cc4": [
+    "581b43b6": [
       30
     ],
+    "91119cc4": [
+      31
+    ],
     "4b08e1aa": [
-      37
+      38
     ],
     "1309c168": [
-      33
-    ],
-    "6beb13ec": [
-      32
-    ],
-    "9767fc50": [
-      36
-    ],
-    "eb49d5d8": [
-      35
-    ],
-    "1f7f1e9c": [
       34
     ],
+    "6beb13ec": [
+      33
+    ],
+    "9767fc50": [
+      37
+    ],
+    "eb49d5d8": [
+      36
+    ],
+    "1f7f1e9c": [
+      35
+    ],
     "4ca32ccc": [
-      31
+      32
     ],
     "bd4ff586": [
       24

@@ -13,6 +13,18 @@
               }
             },
 {
+              path: "/posts/criando-uma-splashscreen-utilizando-flutter",
+              meta: {
+                __relative: '_posts/criando-uma-splashscreen-utilizando-flutter.md',
+                __pageId: '32ad07aa'
+              },
+              component: function() {
+                
+                return import(/* webpackChunkName: "page--_posts-criando-uma-splashscreen-utilizando-flutter-md" */ "C:/Users/TI/Desktop/lucalves.github.io/pages/_posts/criando-uma-splashscreen-utilizando-flutter.md?saberPage=32ad07aa")
+                
+              }
+            },
+{
               path: "/posts/my-first-post",
               meta: {
                 __relative: '_posts/my-first-post.md',
