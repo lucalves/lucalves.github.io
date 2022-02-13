@@ -1,0 +1,23 @@
+theme = "lynx"
+title = "Lucas Alves | Portfolio"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Lucas Alves"
+  image = "author.png"
+  links = [
+    { link = { href = "cv/", text = "Link to CV", target = "_self" } },
+    { github = "https://github.com/lucalves/" },
+    { twitter = "https://twitter.com/lucalves1" },
+    { linkedin = "https://www.linkedin.com/in/lucalves/" },
+    { medium = "https://lucalves.medium.com" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
