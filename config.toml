@@ -6,7 +6,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
   name = "Lucas Alves"
-  image = "author.png"
+  image = "avatar.png"
   links = [
     { link = { href = "cv/", text = "Link to CV", target = "_self" } },
     { github = "https://github.com/lucalves/" },
